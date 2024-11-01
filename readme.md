@@ -14,6 +14,6 @@ Patreon supporters have exclusive access to the full source code of ALL video pr
 
 Please consider becoming a patron:
 
-[patreon.com/CodeWithKliton]
+[https://patreon.com/CodeWithKliton]
 
 Thank you for your interest in the project!
